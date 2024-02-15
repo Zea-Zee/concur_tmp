@@ -1,0 +1,5 @@
+/home/zea/Desktop/sem4/Parallelism/1stTask/build/CMakeFiles/sinus_sum.dir
+/home/zea/Desktop/sem4/Parallelism/1stTask/build/CMakeFiles/package.dir
+/home/zea/Desktop/sem4/Parallelism/1stTask/build/CMakeFiles/package_source.dir
+/home/zea/Desktop/sem4/Parallelism/1stTask/build/CMakeFiles/edit_cache.dir
+/home/zea/Desktop/sem4/Parallelism/1stTask/build/CMakeFiles/rebuild_cache.dir

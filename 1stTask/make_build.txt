@@ -1,0 +1,9 @@
+make
+./sinus_sum
+Using double-1.22465e-09
+
+
+after commenting string "CXXFLAGS += -DUSE_DOUBLE" and deleting sinus_sum:
+make
+./sinus_sum
+Using float-1.22372e-09

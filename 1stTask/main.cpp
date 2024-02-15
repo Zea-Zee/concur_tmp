@@ -27,9 +27,8 @@ T computeVectorSum(vector<T> &vec){
 
 int main(){
     #ifdef USE_DOUBLE
-        using DataType = double;
-        cout << "Using double";
-    #else 
+        using DataType = double;        cout << "Using double";
+    #else
         using DataType = float;
         cout << "Using float";
     #endif
